@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\mosab\Desktop\Payment Application\PaymentApp\PaymentApp\Main.c(11,2): warning C4013: 'appStart' undefined; assuming extern returning int
+  PaymentApp.vcxproj -> C:\Users\mosab\Desktop\Payment Application\PaymentApp\x64\Debug\PaymentApp.exe
